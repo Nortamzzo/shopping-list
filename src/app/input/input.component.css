@@ -1,0 +1,16 @@
+.in-block {
+    display: inline-block;
+    text-align: left;
+}
+
+.ov-input-width {
+    width: 300px;
+}
+
+.ov-center-text {
+    text-align: center;
+}
+
+.ov-center {
+    justify-content: center;
+}

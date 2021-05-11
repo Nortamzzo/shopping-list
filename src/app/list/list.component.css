@@ -1,0 +1,41 @@
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ov-width-when {
+    width: 75px;
+}
+
+.ov-width-what {
+    width: 175px;
+}
+
+.ov-width-where {
+    width: 175px;
+}
+
+.ov-width-edit {
+    width: 50px;
+}
+
+.ov-width-delete {
+    width: 50px;
+}
+
+.ov-width-bought {
+    width: 50px;
+}
+
+.ov-tr {
+    height: 50px;
+}
+
+.table-edit {
+    margin: auto;
+    display: block;
+}
+
+.ov-edit-button:hover {
+    background: #00d1b2;
+}
